@@ -1,4 +1,4 @@
-## NX + PNPM Workspaces + Meteor
+## Turborepo + PNPM Workspaces + Meteor
 
 Known issues:
 
